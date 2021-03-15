@@ -1,6 +1,6 @@
 
 
-# Welcome Web3 Game World
+# Welcome to Web3 Game World
 
 <img src="http://qpjf9b6ys.hn-bkt.clouddn.com/logo.png"/>
 

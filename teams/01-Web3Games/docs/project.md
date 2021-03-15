@@ -255,8 +255,9 @@ https://github.com/Web3-Substrate-Game-World/Web3-Games-Faucet-Server
 
 ## Technical difficulties and solutions
 
-| Interact with polkadot js with react cli                    | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
+| Technical difficulties                                      | Solutions                                                    |
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| More ActionsInteract with polkadot js with react cli        | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
 | Interact with polkadot js with next js                      | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
 | Interact with polkadot js with game client                  | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
 | Choose diesel or rbatis for website backend ORM             | For diesel ROM,the query statemenet and integration is more complicated. We finally chose rbatis which is more user-friendly with lower development entry barrier. |
@@ -276,4 +277,4 @@ https://github.com/Web3-Substrate-Game-World/Web3-Games-Faucet-Server
 
 
 
-                                                                                                
+​                                                                                                

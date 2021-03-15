@@ -2,7 +2,7 @@
 
 # 欢迎来到Web3游戏世界
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/logo.png"/>
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/logo.png"/>
 
 中文 / [英文](https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/README.md)
 

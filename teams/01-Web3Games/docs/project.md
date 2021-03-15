@@ -34,7 +34,11 @@ OR Google drive  https://drive.google.com/file/d/167bwKm7SyP95FR5SMhNZGQ-R5Tv39N
 
 
 
-### specific
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/11.png"/>
+
+
+
+### Specific
 
 #### 1-Complete our parachain SGC and release the testnet on Polkadot JS App
 
@@ -116,7 +120,7 @@ We can compatible with the cross-chain, dex and upcoming game swaps.
 
 
 
-##### 5.3-dex also called GameSwap
+##### 5.3-Dex also called GameSwap
 
 We develop the decentralised exchange protocol for substrate-based game assets (or NFT).
 
@@ -124,13 +128,13 @@ The Uniswap for Gamers
 - Compatible with all NFT, Fungible token assets developed on SGC Game Chain
 - Support ERC1155 NFT tokens and customised subgame contract assets.
 
-##### 5.4-erc1155
+##### 5.4-Erc1155
 
 - Implemented ERC1155 in substrate
 - Can interact with pallet without contract
 
 
-##### 5.5-evm-precompile
+##### 5.5-Evm-precompile
 
 - We implement the module with ETH, EVM compile module with front bridge
 - Compatible with Ethereum

@@ -56,6 +56,12 @@ SubGam 代表Substrate Game Community
 
 
 
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/11.png"/>
+
+
+
+
+
 ### 《具体》
 
 #### 1-已完成我们自己的游戏基础链的初步开发并启动公开测试网并提交到Polkadot js app
@@ -146,7 +152,7 @@ sol 合约调用 游戏基础链中的 Pallet
 
 
 
-##### 5.3-dex 也叫GameSwap
+##### 5.3-Dex 也叫GameSwap
 
 面向所有Substrate底层的区块链游戏集成交换协议模块
 
@@ -164,13 +170,13 @@ sol 合约调用 游戏基础链中的 Pallet
 
 
 
-##### 5.4-erc1155
+##### 5.4-Erc1155
 
 将1155实现于Substrate中，即使不通过合约也可以直接调用pallet
 
 
 
-##### 5.5-evm-precompile
+##### 5.5-Evm-precompile
 
 
 

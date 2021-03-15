@@ -255,32 +255,25 @@ https://github.com/Web3-Substrate-Game-World/Web3-Games-Faucet-Server
 
 ## Technical difficulties and solutions
 
-1. Interact with polkadot js with react cli
-2. Interact with polkadot js with next js
-3. Interact with polkadot js with game client
+| Interact with polkadot js with react cli                    | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
+| ----------------------------------------------------------- | ------------------------------------------------------------ |
+| Interact with polkadot js with next js                      | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
+| Interact with polkadot js with game client                  | Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems |
+| Choose diesel or rbatis for website backend ORM             | For diesel ROM,the query statemenet and integration is more complicated. We finally chose rbatis which is more user-friendly with lower development entry barrier. |
+| Rbatis doesn't support some specific statements             | We faced the problem when we tried to access game account in our testnet and fixed it by checking rust terminal error messages and we decided to remove the additional query. |
+| Problems about interacting the runtime with ink contract    | We fixed it based on the ink <> runtime contract example and implement the contract in runtime. |
+| Game asset should be stored in contact or runtime?          | We did research and found that storing in runtime should be safer and more decentralised. |
+| How to access the same digital asset from evm and contract? | We implemented chain-extension and evm-precompile modules, bringing pallet features to evm and contract environment. |
+| Frontier and orml dependence compile problem?               | We fix it by forking the project, editing the dependence and fix the compile error. |
+| Mulitple ERC1155 storage                                    | We use instance_id to separate multiple erc1155 to make sure they have independent storage for access. |
 
-Did research and fix the compile problem with webpack and integration with different tools / frameworks. For Typescript, we need to inject or write our own Types to fix the compile problems
 
-4. Choose diesel or rbatis for website backend ORM
 
-For diesel ROM,the query statemenet and integration is more complicated. We finally chose rbatis which is more user-friendly with lower development entry barrier.
 
-5. Rbatis doesn't support some specific statements
 
-We faced the problem when we tried to access game account in our testnet and fixed it by checking rust terminal error messages and we decided to remove the additional query.
 
-6. Problems about interacting the runtime with ink contract
 
-We fixed it based on the ink <> runtime contract example and implement the contract in runtime.
+
+
+
                                                                                                 
-7. Game asset should be stored in contact or runtime?
-We did research and found that storing in runtime should be safer and more decentralised.
-
-8. How to access the same digital asset from evm and contract?
-We implemented chain-extension and evm-precompile modules, bringing pallet features to evm and contract environment.
-
-9. Frontier and orml dependence compile problem?
-We fix it by forking the project, editing the dependence and fix the compile error.
-
-10. Mulitple ERC1155 storage
-We use instance_id to separate multiple erc1155 to make sure they have independent storage for access.

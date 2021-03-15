@@ -45,7 +45,14 @@ SubGam 代表Substrate Game Community
 
 
 这是我们的Yoube DEMO视频
-![Demo on Youtube](https://youtu.be/3PIXF1Sa5L0)
+
+
+
+油管 https://www.youtube.com/watch?v=3PIXF1Sa5L0
+
+
+
+或者谷歌云盘  https://drive.google.com/file/d/167bwKm7SyP95FR5SMhNZGQ-R5Tv39NTZ/view?usp=sharing
 
 
 
@@ -57,9 +64,17 @@ https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fsubstrate.org.cn%3A4443#/explorer
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/1.png"/>
+
+
+
 #### 2-创建了SubGas网站 
 
 http://sdk.substrate.org.cn/
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/2.png"/>
 
 
 
@@ -69,15 +84,31 @@ http://sdk.substrate.org.cn/post/Faucet
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/3.png"/>
+
+
+
+
+
 #### 4-创建了项目的知识库面向开发者和玩家用户等
 
 https://web3games.baklib-free.com/
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/4.png"/>
+
+
+
 #### 5-完成了游戏基础链中大量的自研pallet模块
 
 https://github.com/Web3-Substrate-Game-World/SGC/tree/main/pallets
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/5.png"/>
+
+
 
 例如 
 
@@ -163,6 +194,12 @@ https://web3games.blockspaper.com/en/
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/6.png"/>
+
+
+
+
+
 ### 7-SubGat 
 
 
@@ -188,6 +225,16 @@ https://web3games.blockspaper.com/en/
 
 
 https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Template-Frame
+
+
+
+
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/7.png"/>
+
+
 
 
 
@@ -218,6 +265,14 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Back-end-Server-Fra
 
 
 https://github.com/Web3-Substrate-Game-World/SubGat-Game-Client-Template-Frame
+
+
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/8.png"/>
+
+
 
 
 

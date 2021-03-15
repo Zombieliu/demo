@@ -1,8 +1,8 @@
 
 
-# 欢迎来到Web3游戏世界<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/web3game-logo-vertical-black.svg" alt="web3game-logo-vertical-black" style="zoom: 25%;" />
+# 欢迎来到Web3游戏世界
 
-
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/logo.png"/>
 
 中文 / [英文](https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/README.md)
 
@@ -12,6 +12,14 @@
 - [团队成员](https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/docs/team-CN.md)
 - [代码资源](https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/src/README-CN.md)
 - [演示稿](https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/docs/presentation-CN.pdf)
+
+## 演示视频
+
+油管 https://www.youtube.com/watch?v=3PIXF1Sa5L0
+
+
+
+或者谷歌云盘 https://drive.google.com/file/d/167bwKm7SyP95FR5SMhNZGQ-R5Tv39NTZ/view?usp=sharing
 
 ## 开源协议
 

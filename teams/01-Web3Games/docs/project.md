@@ -23,7 +23,14 @@ Project is developed in less than 35 days by a group of part-time developers.
 Til now, we've developed the MVP framework to show how games can be integrated with blockchain.
 
 Please check our demo for what we have completed.
-![Demo on Youtube](https://youtu.be/3PIXF1Sa5L0)
+
+
+
+YOUTUBE https://www.youtube.com/watch?v=3PIXF1Sa5L0
+
+
+
+OR Google drive  https://drive.google.com/file/d/167bwKm7SyP95FR5SMhNZGQ-R5Tv39NTZ/view?usp=sharing
 
 
 
@@ -35,15 +42,25 @@ https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fsubstrate.org.cn%3A4443#/explorer
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/1.png"/>
+
+
+
 #### 2-Build SubGas Website
 
 http://sdk.substrate.org.cn/
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/2.png"/>
+
 #### 3-Build SGC token testnet faucet based on Polkadot JS, users can get 100 free test tokens per day
 
 http://sdk.substrate.org.cn/post/Faucet
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/3.png"/>
 
 
 
@@ -53,9 +70,17 @@ https://web3games.baklib-free.com/
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/4.png"/>
+
+
+
 #### 5-Build pallet modules in game frameworks
 
 https://github.com/Web3-Substrate-Game-World/SGC/tree/main/pallets
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/5.png"/>
 
 ##### 5.1-Chain-extension
 
@@ -68,6 +93,8 @@ Sol Contracts Interact with other ->  Sol Contracts 【Multiple】
 Wasm Contracts Interact with Game Chain Pallet  
 
 Sol Contracts Interact with Game Chain  Pallet 
+
+
 
 
 
@@ -116,6 +143,8 @@ https://web3games.blockspaper.com/en/
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/6.png"/>
+
 ### 7-SubGat 
 
 
@@ -138,6 +167,10 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Back-end-Server-Fra
 
 
 
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/7.png"/>
+
+
+
 3-SubGat-Game-Client-Template-Frame
 
 Quickly build game client for blockchain + game developers【Game client template framework】
@@ -148,6 +181,10 @@ Game client framework
 - Support third-party extension
 
 https://github.com/Web3-Substrate-Game-World/SubGat-Game-Client-Template-Frame
+
+
+
+<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/logo/8.png"/>
 
 
 

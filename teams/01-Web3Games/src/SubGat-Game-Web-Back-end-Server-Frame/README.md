@@ -24,7 +24,7 @@ debug模式打开，能查看中间输出的内容
     cargo run
 ```
 
-test-dogedoge 下是测试命令
+test-dogedoge.txt 文件内是测试命令
 
 Provide interface and data support for the website【Basic】
 -------------------------------------------------------------

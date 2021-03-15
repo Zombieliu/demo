@@ -64,7 +64,7 @@ https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fsubstrate.org.cn%3A4443#/explorer
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/1.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/1.png"/>
 
 
 
@@ -74,7 +74,7 @@ http://sdk.substrate.org.cn/
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/2.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/2.png"/>
 
 
 
@@ -84,7 +84,9 @@ http://sdk.substrate.org.cn/post/Faucet
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/3.png"/>
+
+
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/3.png"/>
 
 
 
@@ -96,7 +98,9 @@ https://web3games.baklib-free.com/
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/4.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/4.png"/>
+
+
 
 
 
@@ -106,11 +110,13 @@ https://github.com/Web3-Substrate-Game-World/SGC/tree/main/pallets
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/5.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/5.png"/>
 
 
 
 例如 
+
+
 
 
 
@@ -194,7 +200,9 @@ https://web3games.blockspaper.com/en/
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/6.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/6.png"/>
+
+
 
 
 
@@ -232,7 +240,9 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Template-Frame
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/7.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/7.png"/>
+
+
 
 
 
@@ -270,7 +280,7 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Client-Template-Frame
 
 
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/8.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/8.png"/>
 
 
 

@@ -2,7 +2,7 @@
 
 # Welcome Web3 Game World
 
-<img src="https://github.com/Zombieliu/demo/tree/main/teams/01-Web3Games/asset/logo.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/logo.png"/>
 
 
 

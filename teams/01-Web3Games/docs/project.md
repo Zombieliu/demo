@@ -116,7 +116,7 @@ We can compatible with the cross-chain, dex and upcoming game swaps.
 
 
 
-##### 5.3-dex 也叫GameSwap
+##### 5.3-dex also called GameSwap
 
 We develop the decentralised exchange protocol for substrate-based game assets (or NFT).
 
@@ -136,7 +136,9 @@ The Uniswap for Gamers
 - Compatible with Ethereum
 - Support Metamask chrome extension and mobile app
 
-![image-20210314014242834](C:\Users\17600\AppData\Roaming\Typora\typora-user-images\image-20210314014242834.png)
+
+
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/9.png"/>
 
 Welcome to connect to our testnet
 
@@ -183,7 +185,7 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Back-end-Server-Fra
 
 
 
-<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/7.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/10.png"/>
 
 
 

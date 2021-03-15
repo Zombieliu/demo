@@ -180,7 +180,7 @@ sol 合约调用 游戏基础链中的 Pallet
 
 
 
-![image-20210314014242834](C:\Users\17600\AppData\Roaming\Typora\typora-user-images\image-20210314014242834.png)
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/9.png"/>
 
 欢迎连接我们的网络
 
@@ -240,7 +240,7 @@ https://github.com/Web3-Substrate-Game-World/SubGat-Game-Web-Template-Frame
 
 
 
-<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/7.png"/>
+<img src="http://qpjf9b6ys.hn-bkt.clouddn.com/10.png"/>
 
 
 
